@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:First Elven King/First Elven King.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Second Elven King/Second Elven King.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Third Elven King/Third Elven King.xcodeproj">
+   </FileRef>
+</Workspace>
